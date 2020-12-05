@@ -98,6 +98,7 @@ public class Asignacion {
                 //METODO ROOM
                 
                 System.out.println("PRUEBA 2");
+                System.out.println("APORTE 3");
                 
               
                         
