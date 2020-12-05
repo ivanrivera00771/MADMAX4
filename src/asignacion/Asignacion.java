@@ -1,6 +1,8 @@
 
 package asignacion;
 
+import java.awt.BorderLayout;
+
 
 public class Asignacion {
 
@@ -94,6 +96,8 @@ public class Asignacion {
     System.out.println("|" + x + "| es " + Math.abs(g));
     
                 //METODO ROOM
+                
+                System.out.println("PRUEBA 2");
                 
               
                         
